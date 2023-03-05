@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.cards-header {
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.card-header-blue {
+    color: #3563e9;
+    font-weight: 600;
+}
+
+
+cards-header .span{
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    
+}
+.card-header-gray{
+    color: #90a3bf;
+    font-weight: 600;
+}
